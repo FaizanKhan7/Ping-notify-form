@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.main-header {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.main-header h1 {
+    padding-top: 20px;
+}
+
+.main-header p {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.main-header input {
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.btn {
+    background-color: hsl(223, 87%, 63%);
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+span {
+    color: hsl(0, 0%, 59%);
+}
+
+.image {
+    text-align: center;
+}
+
+#nav-bar {
+    text-align: center;
+}
+
+#nav-bar i {
+    padding: 15px;
+}
+
+#main-footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
