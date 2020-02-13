@@ -60,7 +60,7 @@ body {
     margin: 30px auto;
     max-width: 80%;
     padding-top: 42%;
-    background: url('/images/illustration-dashboard.png') no-repeat center;
+    background: url('images/illustration-dashboard.png') no-repeat center;
     background-size: cover;
 }
 
