@@ -1,4 +1,4 @@
 # PING
 ## SUBSCRIBE and get notified through ping
-#demo
+# Demo
 https://ping-notify-form.netlify.com/
